@@ -10,6 +10,9 @@ body {
     background-color: #d9dcd6;
 }
 
+header > h4{
+    color: green
+}
 /*Header */
 
 header {
@@ -81,7 +84,7 @@ p {
 
 /* MAIN */
 
-main {
+.left {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -89,7 +92,7 @@ main {
 
 /* BENEFITS ASIDE */
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
